@@ -1,0 +1,70 @@
+.telo {
+    background-color: beige;
+}
+
+img {
+    border-radius: 9px;
+    box-shadow: 6px 8px 9px black;
+}
+.imges {
+    text-align: center;
+}
+
+.name {
+    text-align: center;
+}
+
+.albmr {
+    background-color:rgb(88, 77, 61);
+    padding: 8px;
+    border-radius: 9px;
+    font-size: 22px;
+    border-radius: 6px 8px 9px black;
+}
+
+.prog {
+    text-align: center;
+}
+
+.it {
+    background-color: rgb(84, 188, 223);
+    padding: 8px;
+    border-radius: 9px;
+    font-size: 22px;
+    border-radius: 9px 7px 9px black;
+    margin-top: 15px;
+}
+
+.fron {
+    background-color: rgb(92, 183, 116);
+    padding: 8px;
+    border-radius: 9px;
+    font-size: 22px;
+    border-radius: 9px 7px 9px black;
+    margin-top: 15px;
+}
+
+.tabl {
+    background-color: rgb(128, 156, 90);
+    padding: 8px;
+    border-radius: 9px;
+    font-size: 22px;
+    border-radius: 9px 7px 9px black;
+    margin-top: 15px;
+}
+
+.table {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ssilca {
+    background-color: rgb(122, 189, 255);
+    padding: 8px;
+    border-radius: 9px;
+    font-size: 22px;
+    border-radius: 9px 7px 9px black;
+    margin-top: 15px;
+    text-align: center;
+}
